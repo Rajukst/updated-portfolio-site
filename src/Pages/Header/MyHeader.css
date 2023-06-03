@@ -1,0 +1,11 @@
+.allLinks{
+    display: flex;
+    padding: 20px;
+}
+.linkss{
+    margin-left: 40px;
+}
+.link{
+    text-decoration: none !important;
+    color: white!important;
+}

@@ -1,0 +1,8 @@
+.project{
+    background-color: black;
+    height: 90vh;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}

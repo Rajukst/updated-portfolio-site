@@ -1,0 +1,30 @@
+.homeWidth{
+    height: 90vh;
+}
+
+  p.test2 {
+    writing-mode: vertical-rl; 
+    padding-top: 20px;
+  }
+  p.test23 {
+    writing-mode:vertical-rl; 
+    padding-top: 20px;
+  }
+  
+.designs{
+    display: flex;
+}
+.textDesign{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.resume{
+    text-align: left;
+}
+.resume button{
+    background: none;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid white;
+    font-weight: 500;
+}
