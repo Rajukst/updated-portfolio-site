@@ -11,10 +11,12 @@ import expressPhoto from "../../Assets/express.png"
 import mui from "../../Assets/muis.png"
 import reactBoostrap from "../../Assets/reactboostrap.png"
 import Mongo from "../../Assets/mongos.png"
+import Header from '../../Shared/Header';
 const Skills = () => {
     return (
         <Container>
-      <Row>
+            <Header/>
+      <Row className='skillClass'>
         <Col xs={12} md={6} lg={2}>
         <div class="center">
         <div class="ring"></div>

@@ -1,0 +1,11 @@
+.linkss a{
+    text-decoration: none !important;
+    margin-left: 5rem;
+ 
+}
+.allLinks{
+    padding-top: 10px !important;
+    display: flex !important;
+    flex-direction: row !important;
+    height: 20vh;
+}
